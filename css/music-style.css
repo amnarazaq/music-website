@@ -1,0 +1,19 @@
+*{
+margin:0px;
+padding:0px;
+}
+#container
+{
+height:auto;
+width:100%;
+background-color:#000000;
+height:1200px;
+
+
+
+}
+#header
+{height: 65px;
+width:100%;
+background-color:#000000;
+}

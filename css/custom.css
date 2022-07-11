@@ -1,0 +1,16 @@
+header > nav img {
+	width: 250px;
+}
+
+.bg-black {
+	background-color: #000;
+}
+
+/*#mainpage-banner > div.carousel-inner {
+	width: 1000px;
+	height: 500px;
+}*/
+.main-slider {
+    width: 100%;
+    overflow: hidden;
+}
